@@ -31,19 +31,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌦️ Weather App
-A real-time weather application fetching live data with a modern and user-friendly interface.
-
-- 🌍 Search weather by city  
-- ☁️ Real-time weather data  
-- 🎨 Clean and modern UI  
-
-🔗 **Live Demo:** https://animated-quokka-weather-api.netlify.app/  
-📂 **Code:** https://github.com/Varun-Dange4554/Weather-App-With-JS  
-
----
 
 ## 📊 GitHub Stats
 
