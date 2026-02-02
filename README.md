@@ -47,27 +47,27 @@ A real-time weather application fetching live data with a modern and user-friend
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varun-Dange4554&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Dange4554&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
 ## 🤝 Connect With Me
 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/varun-dange-29b834345" target="_blank">
+<p align="center">
+  <!-- <a href="https://www.linkedin.com/in/varun-dange-29b834345" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Varun%20Dange-blue?style=flat&logo=linkedin">
-  </a>
+  </a> -->
 
   <a href="mailto:abhishekpal12234@gmail.com">
     <img src="https://img.shields.io/badge/abhishekpal12234@gmail.com-red?style=flat&logo=gmail">
   </a>
-</p> -->
+</p> 
 
 ---
 
