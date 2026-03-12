@@ -77,7 +77,7 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?usernameAbhishekpal-2525
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekpal-2525
 =&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekpal-2525
