@@ -5,14 +5,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | React & JavaScript | Learning Java Full Stack
+🚀 Frontend Developer | React & JavaScript |Java Full Stack | Java Backend Developer
 </h3>
 
 <p align="center">
 <a href="https://github.com/Abhishekpal-2525">
 <img src="https://img.shields.io/github/followers/Abhishekpal-2525?label=Followers&style=social"/>
 </a>
-<a href="https://github.com/Rishabhydv123">
+<a href="https://github.com/Abhishekpal-2525">
 <img src="https://komarev.com/ghpvc/?username=Abhishekpal-2525&label=Profile%20views&color=0e75b6&style=flat"/>
 </a>
 </p>
@@ -21,7 +21,7 @@
 
 # 👨‍💻 About Me
 
-- 🌱 Currently learning **Java Full Stack Development**
+- 🌱 **Java Full Stack Development**
 - ⚛️ Building projects using **React & JavaScript**
 - 💡 Interested in **Web Development & Software Engineering**
 - 📂 All projects available at  
@@ -37,10 +37,6 @@
 
 <a href="https://github.com/Abhishekpal-2525">
 <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="http://linkedin.com/in/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:abhishekpal12234@gmail.com">
@@ -78,7 +74,7 @@
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekpal-2525
-=&show_icons=true&theme=radical&hide_border=true"/>
+&show_icons=true&theme=radical&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekpal-2525
 &layout=compact&theme=radical&hide_border=true"/>
@@ -91,8 +87,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekpal-2525
-&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekpal-2525&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -101,8 +96,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekpal-2525
-&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekpal-2525&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -127,3 +121,5 @@
 <p align="center">
  **Code never lies, comments sometimes do.**
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Abhishekpal-2525&icon=2&color=0)](https://visitcount.itsvg.in)
