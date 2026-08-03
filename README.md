@@ -61,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" />
 </p>
 
-### 📚 Currently Learning
+### 📚Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
